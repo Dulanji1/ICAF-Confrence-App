@@ -1,0 +1,17 @@
+{
+  "name": "icaf-coffe-cup-intializer",
+  "version": "1.0.0",
+  "description": "start web server and client application at same",
+  "proxy": "http://localhost:5000",
+  "scripts": {
+    "setup": "npm install && cd server && npm install && cd ../client && npm install",
+    "server": "cd server && npm start",
+    "client": "cd client && npm start",
+    "start": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "shalitha senanayaka",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^6.0.1"
+  }
+}
