@@ -34,6 +34,7 @@ Research paper presenters: must pay if their papers got approved to present them
 ## ICAF - International Conference Application - Use case Diagrams
 
 
+<img width="500" alt=" " src="/resources/0.jpg">
 <img width="500" alt=" " src="/resources/1.jpg">
 <img width="500" alt=" " src="/resources/2.jpg">
 <img width="500" alt=" " src="/resources/3.jpg">
